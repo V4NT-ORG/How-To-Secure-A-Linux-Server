@@ -3882,6 +3882,12 @@ For any questions, comments, concerns, feedback, or issues, submit a [new issue]
 
 ([Table of Contents](#table-of-contents))
 
+### My Findings
+
+- [Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
+- [xmpp-spam-blacklist](https://github.com/OfficialV4NT/xmpp-blacklist)
+- 
+
 ### License and Copyright
 
 [![CC-BY-SA](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
