@@ -3882,11 +3882,25 @@ For any questions, comments, concerns, feedback, or issues, submit a [new issue]
 
 ([Table of Contents](#table-of-contents))
 
-### My Findings
+### NGINX Ultimate Bad Bot
 
-- [Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail for Repeat Offenders](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker)
-- [xmpp-spam-blacklist](https://github.com/OfficialV4NT/xmpp-blacklist)
-- 
+- https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
+
+### Implementing Post‑quantum Cryptography
+
+- https://link.springer.com/content/pdf/10.1007/s42979-023-01724-1.pdf
+- https://aws.amazon.com/security/post-quantum-cryptography/
+- https://lantian.pub/en/article/modify-website/post-quantum-encryption.lantian/
+- https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/when-and-how-to-prepare-for-post-quantum-cryptography
+- https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.04282021.pdf
+- https://developer.ibm.com/tutorials/set-up-a-quantum-safe-ssh-connection/
+- https://github.com/open-quantum-safe/oqs-provider
+- https://openquantumsafe.org/applications/tls.html
+- https://github.com/open-quantum-safe/liboqs
+- https://www.redhat.com/en/blog/post-quantum-cryptography-introduction
+- https://docs.digicert.com/en/certcentral/certificate-tools/post-quantum-cryptography.html
+- https://www.secure-ic.com/blog/pqc/post-quantum-cryptography-having-it-implemented-right/
+- https://news.itsfoss.com/tutanota-post-quantum-secure-cloud/
 
 ### License and Copyright
 
